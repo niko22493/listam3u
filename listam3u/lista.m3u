@@ -33,14 +33,16 @@ http://192.168.1.42:6878/ace/manifest.m3u8?id=bcf9dc38f92e90a71b87bd54b3bac91b76
 http://192.168.1.42:6878/ace/manifest.m3u8?id=fd53cfa7055fe458d4f5c0ff59a06cd43723be55
 #EXTINF:-1 tvg-id="DAZN F1 HD" group-title="Deportes - Formula 1",DAZN F1 720 (Opción 1)
 http://192.168.1.42:6878/ace/manifest.m3u8?id=ed6188dcbb491efeb2092c1a6199226c27f61727
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="Deportes - Futbol",DAZN LaLiga 1080 (Opción 3)
-http://192.168.1.42:6878/ace/manifest.m3u8?id=0e50439e68aa2435b38f0563bb2f2e98f32ff4b1
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="Deportes - Futbol",DAZN LaLiga 1080 (Opción 4)
-http://192.168.1.42:6878/ace/manifest.m3u8?id=1bb5bf76fb2018d6db9aaa29b1467ecdfabe2884
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="Deportes - Futbol",DAZN LaLiga 1080 MultiAudio (Opción 1)
-http://192.168.1.42:6878/ace/manifest.m3u8?id=e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05
-#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="Deportes - Futbol",DAZN LaLiga 1080 MultiAudio (Opción 2)
-http://192.168.1.42:6878/ace/manifest.m3u8?id=74defb8f4ed3a917fd07c21b34f43c17107ec618
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="Deportes - Futbol",DAZN LA LIGA 1 --> ELCANO
+http://192.168.1.42:6878/ace/manifest.m3u8?id=eb4975702ceadca7ed74f8707e17a9f55569dbb9
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="Deportes - Futbol",DAZN LA LIGA 1 --> ELCANO 2
+http://192.168.1.42:6878/ace/manifest.m3u8?id=cc108ae39f92c48f6c946763047bd1c9b7b7d889
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="Deportes - Futbol",DAZN LA LIGA 1 --> NEW ERA
+http://192.168.1.42:6878/ace/manifest.m3u8?id=19f28f60c908f987b1a03da078e63320d7bf29e8
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="Deportes - Futbol",DAZN LA LIGA 1 --> SPORT TV
+http://192.168.1.42:6878/ace/manifest.m3u8?id=dda5d2cace9bc4cb0918e62bc50d657d4a10496a
+#EXTINF:-1 tvg-id="DAZN LaLiga HD" group-title="Deportes - Futbol",DAZN LA LIGA 1 FHD --> NEW ERA
+http://192.168.1.42:6878/ace/manifest.m3u8?id=d1596a3988b84a4d2711fd380eb8a53256ad74ae
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="Deportes - Futbol",DAZN LaLiga 2 1080 MultiAudio (Opción 1)
 http://192.168.1.42:6878/ace/manifest.m3u8?id=a231b2fa1f7754433efeb8bb8d69d7b9096dcba8
 #EXTINF:-1 tvg-id="DAZN LaLiga 2 HD" group-title="Deportes - Futbol",DAZN LaLiga 2 720 (Opción 1)
