@@ -65,6 +65,14 @@ http://192.168.1.42:6878/ace/manifest.m3u8?id=778d2f60bb7207addedcca0b9aed98f415
 http://192.168.1.42:6878/ace/manifest.m3u8?id=1ba18731a8e18bb4b3a5dfa5bb7b0f05762849a6
 #EXTINF:-1 tvg-id="LaLiga TV Hypermotion HD" group-title="Deportes - Futbol",LaLiga TV Hypermotion 720 (Opción 1)
 http://192.168.1.42:6878/ace/manifest.m3u8?id=a4f072c9b614323ac1258a175f868a909ea3c8cd
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="Deportes - Futbol",LIGA DE CAMPEONES --> ELCANO
+http://192.168.1.42:6878/ace/manifest.m3u8?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="Deportes - Futbol",LIGA DE CAMPEONES --> SPORT TV
+http://192.168.1.42:6878/ace/manifest.m3u8?id=e572a5178ff72eed7d1d751a18b4b3419699f370
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="Deportes - Futbol",LIGA DE CAMPEONES FHD --> NEW ERA
+http://192.168.1.42:6878/ace/manifest.m3u8?id=c16b4fab1f724c94cad92081cbb7fc7c6fe8a2cc
+#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="Deportes - Futbol",LIGA DE CAMPEONES FHD --> NEW ERA II
+http://192.168.1.42:6878/ace/manifest.m3u8?id=afbf1ef8812e7b0a0977fa3a0a2d3a6d3cbd6c6f
 #EXTINF:-1 tvg-id="M+ LaLiga HD" group-title="Deportes - Futbol",M+ LALIGA --> ELCANO 1
 http://192.168.1.42:6878/ace/manifest.m3u8?id=3ace1463a7cad979c3a4002b245487e9982e9f1a
 #EXTINF:-1 tvg-id="M+ LaLiga HD" group-title="Deportes - Futbol",M+ LALIGA --> ELCANO 2
@@ -91,14 +99,6 @@ http://192.168.1.42:6878/ace/manifest.m3u8?id=1bcee22d5476f2eae9dc2cb24e3685152c
 http://192.168.1.42:6878/ace/manifest.m3u8?id=af458073c3096293a4dea9f369d4f308e7125bd6
 #EXTINF:-1 tvg-id="M+ LaLiga HD" group-title="Deportes - Futbol",M+ LALIGA FHD --> NEW ERA II
 http://192.168.1.42:6878/ace/manifest.m3u8?id=d4ff041287a43e3114d411d671c4b4e92e21f33y
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="Deportes - Futbol",M+ Liga de Campeones 1080 (Opción 1)
-http://192.168.1.42:6878/ace/manifest.m3u8?id=97df5b7824948972d041d8ca2a4d29c90b641bc9
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="Deportes - Futbol",M+ Liga de Campeones 1080 (Opción 2)
-http://192.168.1.42:6878/ace/manifest.m3u8?id=2b51710cee513e8939785fa3e7980f32d4e0415f
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="Deportes - Futbol",M+ Liga de Campeones 1080 (Opción 3)
-http://192.168.1.42:6878/ace/manifest.m3u8?id=9db029dff6a9c637d1f670e78dbc1a479b9b406e
-#EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="Deportes - Futbol",M+ Liga de Campeones 1080 (Opción 4)
-http://192.168.1.42:6878/ace/manifest.m3u8?id=778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="Deportes - Futbol",M+ Liga de Campeones 1080 (Opción 5)
 http://192.168.1.42:6878/ace/manifest.m3u8?id=afbf2a479c5a5072698139f0f556ef3e77a99bd0
 #EXTINF:-1 tvg-id="M+ Liga de Campeones HD" group-title="Deportes - Futbol",M+ Liga de Campeones 1080 (Opción 6)
